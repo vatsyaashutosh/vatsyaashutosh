@@ -11,15 +11,16 @@
 
 - 👯I've worked on CoSchedule clone [CoSchedule clone](https://vatsyaashutosh.github.io/coshedule/)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1_nIWON-d9_OI9RRWYTXjXdaNOQh1sUjZ/view?usp=sharing](https://drive.google.com/file/d/1_nIWON-d9_OI9RRWYTXjXdaNOQh1sUjZ/view?usp=sharing)
+- 👨‍💻 All of my projects are available at  <a href='https://drive.google.com/file/d/1_nIWON-d9_OI9RRWYTXjXdaNOQh1sUjZ/view?usp=sharing'>My portfolio</a>
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **vatsyaashutosh22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_nIWON-d9_OI9RRWYTXjXdaNOQh1sUjZ/view?usp=sharing](https://drive.google.com/file/d/1_nIWON-d9_OI9RRWYTXjXdaNOQh1sUjZ/view?usp=sharing)
+- 📄 Know about my experiences  <a href='https://drive.google.com/file/d/1_nIWON-d9_OI9RRWYTXjXdaNOQh1sUjZ/view?usp=sharing'>My Resume</a>
 
-- ⚡ Fun fact **I think I am good.**
+
+- ⚡ Fun fact **I think I am good at driving.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
