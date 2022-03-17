@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Vatsya</h1>
 <h3 align="center">A passionate Full-stack developer from Masai school.</h3>
+<p align="center"><img src="https://www.freecoursesites.us/wp-content/uploads/2021/05/MERN-Stack-Development-with-React-Redux-Node-2021-2.jpg" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsyaashutosh&label=Profile%20views&color=0e75b6&style=flat" alt="vatsyaashutosh" /> </p>
 
